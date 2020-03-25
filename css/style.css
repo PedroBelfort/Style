@@ -15,6 +15,9 @@
 /**************** common css start ****************/
 /* line 4, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_common.scss */
 
+.borda_redonda {
+  border-radius: 10px;
+}
 
 body {
   font-family: "Poppins", sans-serif;
