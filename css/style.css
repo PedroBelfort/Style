@@ -14,6 +14,8 @@
 /**************** extend css start ****************/
 /**************** common css start ****************/
 /* line 4, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_common.scss */
+
+
 body {
   font-family: "Poppins", sans-serif;
   padding: 0;
@@ -25,24 +27,25 @@ body {
   background-color: #ecfdff;
 }
 
-
-.slide-destaque{
-  width:100% ; 
-  height:inherit ;
+.img-size {
+  height: 320px;
+  width: 320px;
 }
 
-.slider-tamanho{
-  
-   
-  height: 205px;
+.row-space{
+  margin: 0px;
+ 
+}
+.no-padding{
+  padding: 0px;
 }
 
-.comprado{
+.indisponivel{
 color: white;
-background-color:green;
+background-color:red;
 }
 
-.aguardando{
+.reservado{
  background-color: yellow;
 }
 
